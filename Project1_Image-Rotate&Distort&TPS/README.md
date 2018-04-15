@@ -1,13 +1,9 @@
-`## This 
+## This 
 
 Executable program is Image Warping.exe file in executable program (including test set).
 
-*****************************************************************************
-
 This program is written in C# language, and uses Visual Studio 2013 Community compiler. The supporting running environment is Windows 7 to Windows 10 versions.
 
-*****************************************************************************
-*****************************************************************************
 
 Program function and use method
 
