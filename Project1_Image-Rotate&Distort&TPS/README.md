@@ -1,3 +1,4 @@
+# Project1 Image Processing Using Interpolation Algorithms (Rotate & Distort & TPS)
 This is my course project on "Numerical Analysis and Algorithms" course taken in my junior year in Tsinghua University. The aim of this project is to apply several interpolation methods into image processing procedures.
 
 Note: As a course project, this project's notes, report and readme were originally written in Chinese. You can also see my report and readme in Chinese if needed.
