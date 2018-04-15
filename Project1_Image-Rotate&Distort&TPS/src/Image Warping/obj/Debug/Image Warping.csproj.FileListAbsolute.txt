@@ -1,0 +1,12 @@
+F:\File\C#\DAA\Image Warping\Image Warping\bin\Debug\Image Warping.exe.config
+F:\File\C#\DAA\Image Warping\Image Warping\bin\Debug\Image Warping.exe
+F:\File\C#\DAA\Image Warping\Image Warping\bin\Debug\Image Warping.pdb
+F:\File\C#\DAA\Image Warping\Image Warping\obj\Debug\Image Warping.csprojResolveAssemblyReference.cache
+F:\File\C#\DAA\Image Warping\Image Warping\obj\Debug\Image_Warping.Form1.resources
+F:\File\C#\DAA\Image Warping\Image Warping\obj\Debug\Image_Warping.Properties.Resources.resources
+F:\File\C#\DAA\Image Warping\Image Warping\obj\Debug\Image Warping.csproj.GenerateResource.Cache
+F:\File\C#\DAA\Image Warping\Image Warping\obj\Debug\Image Warping.exe
+F:\File\C#\DAA\Image Warping\Image Warping\obj\Debug\Image Warping.pdb
+Z:\Documents\作业\数值大1\2014011541_自45_林子坤_第一次大作业\程序源代码\Image Warping\bin\Debug\Image Warping.exe.config
+Z:\Documents\作业\数值大1\2014011541_自45_林子坤_第一次大作业\程序源代码\Image Warping\obj\Debug\Image Warping.exe
+Z:\Documents\作业\数值大1\2014011541_自45_林子坤_第一次大作业\程序源代码\Image Warping\obj\Debug\Image Warping.pdb

@@ -1,0 +1,9 @@
+F:\File\C#\DAA\LnX\LnX\bin\Debug\LnX.exe.config
+F:\File\C#\DAA\LnX\LnX\bin\Debug\LnX.exe
+F:\File\C#\DAA\LnX\LnX\bin\Debug\LnX.pdb
+F:\File\C#\DAA\LnX\LnX\obj\Debug\LnX.csprojResolveAssemblyReference.cache
+F:\File\C#\DAA\LnX\LnX\obj\Debug\LnX.Form1.resources
+F:\File\C#\DAA\LnX\LnX\obj\Debug\LnX.Properties.Resources.resources
+F:\File\C#\DAA\LnX\LnX\obj\Debug\LnX.csproj.GenerateResource.Cache
+F:\File\C#\DAA\LnX\LnX\obj\Debug\LnX.exe
+F:\File\C#\DAA\LnX\LnX\obj\Debug\LnX.pdb
