@@ -4,7 +4,7 @@ This is my course project on "Numerical Analysis and Algorithms" course taken in
 Note: As a course project, this project's notes, report and readme were originally written in Chinese. You can also see my report and readme in Chinese if needed.
 
 ## Executable program
-Image Warping.exe file in executable program (including test set).
+Image Warping.exe file in src folder (including test set).
 
 ## Programming language and IDE
 This program was written in C# language with Visual Studio 2013 Community.
