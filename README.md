@@ -1,2 +1,4 @@
 # "Numerical Analysis and Algorithms" Course Projects
 Course Projects on Course "Numerical Analysis and Algorithms" in Tsinghua University
+
+Note: File “Cheatsheet (数值A4) Ver3.1” is the cheatsheet prepared for my examination. Xiwei Zheng, Shan Tian, Wenju Zheng and Meihe Ren also contributed to this cheatsheet. All of us think this is an excellent work, but we hope everyone who is preparing for exam should not only count on this A4 paper without review. **If you need the password, please don’t hesitate to contact me (Wechat: linzk14), but please don’t distribute or disclose the password without my permission. Thanks!**
