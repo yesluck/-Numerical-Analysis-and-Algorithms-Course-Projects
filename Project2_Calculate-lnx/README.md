@@ -18,6 +18,7 @@ Input the variable X into the blank after “X=”. You must ensure that:
 
 ### Choose the precision you need
 Adjust the precision you need (the number of decimal digits) in the numerical box after ”Precision(所需精度)”. You can change the number between 0 and 32.
+
 Notice: The precision will affect iterating times of the algorithm. By using ”Taylor(Taylor展开求解)”, “Romberg Algorithm(数值积分(龙贝格算法)求解)” and “Lagrange Interpolation Polynomial(拉格朗日插值多项式求解)”methods, the software will be able to output the result in 5 seconds. But when using “Compound Simpson Formula(复化辛普生公式)”, the calculating time would be really long, especially when the number of required decimal digits exceeds 21. So please be careful when you want to test this method.
 
 ### Start calculating!
